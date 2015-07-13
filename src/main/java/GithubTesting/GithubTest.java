@@ -4,6 +4,7 @@ public class GithubTest {
 	
 	String naam; 
 	int leeftijd;
+	String adres;
 	
 	public String getNaam() {
 		return naam;
